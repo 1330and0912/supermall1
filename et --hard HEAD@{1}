@@ -1,0 +1,16 @@
+[33m8cf9a45[m[33m ([m[1;36mHEAD -> [m[1;32mdetail[m[33m)[m HEAD@{0}: checkout: moving from master to detail
+[33m5e03baa[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{1}: commit: 's'
+[33m17709f5[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{2}: checkout: moving from detail to master
+[33m8cf9a45[m[33m ([m[1;36mHEAD -> [m[1;32mdetail[m[33m)[m HEAD@{3}: commit: 's'
+[33m695db06[m[33m ([m[1;31morigin/detail[m[33m)[m HEAD@{4}: commit: '商品详情页数据渲染'
+[33m17709f5[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{5}: checkout: moving from master to detail
+[33m17709f5[m[33m ([m[1;31morigin/master[m[33m)[m HEAD@{6}: commit: '完成了主页内容'
+[33me647c3c[m[33m ([m[1;31morigin/home[m[33m, [m[1;32mhome[m[33m)[m HEAD@{7}: checkout: moving from home to master
+[33me647c3c[m[33m ([m[1;31morigin/home[m[33m, [m[1;32mhome[m[33m)[m HEAD@{8}: checkout: moving from master to home
+[33me647c3c[m[33m ([m[1;31morigin/home[m[33m, [m[1;32mhome[m[33m)[m HEAD@{9}: commit: '完成了介绍视图'
+[33m466556b[m HEAD@{10}: commit: '完成轮播图'
+[33m1ccf940[m HEAD@{11}: commit: s
+[33m964455e[m HEAD@{12}: commit: new
+[33m16559fb[m HEAD@{13}: commit: 目录结构
+[33m5095694[m HEAD@{14}: commit: 清理项目
+[33mea970b6[m HEAD@{15}: commit (initial): init
